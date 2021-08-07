@@ -135,3 +135,6 @@ dmypy.json
 movies_metadata.csv
 ratings.csv
 wikipedia-movies.json
+
+#Config
+config.py
