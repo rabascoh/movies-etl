@@ -131,10 +131,8 @@ dmypy.json
 #DS_store
 .DS_store
 
-#Datafiles
-movies_metadata.csv
+#Large datafiles
 ratings.csv
-wikipedia-movies.json
 
 #Config
 config.py
